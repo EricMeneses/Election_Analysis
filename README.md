@@ -65,4 +65,4 @@ The Colorado Board of Election Commission has requested additional data for thei
 ![](Election_Analysis%20Images/Winning%20Candidate.png)
 
 ## Challenge Summary
-
+With the information provided, the Colorado Board of Elections Commission may be inclined to use this same script for future elections to obtain beneficial data. One way it can be modified is to structure it so that it can be determined in which county a candidate may have been more popular based on votes. Another way this script can be altered is to expand to other counties and get an even more detailed read of information for the entire state of Colorado.
